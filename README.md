@@ -1,6 +1,6 @@
 # LinRegConf
 Perform linear least squares regression, accounting for uncertainty, using linear algebra methods to minimize the objective function
-(in this case, $$\chi^2$$).
+(in this case, $\chi^2$).
 
 When using this code, please cite this repository using the reference provided here by GitHub.
 
