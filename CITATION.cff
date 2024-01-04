@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Flury"
+  given-names: "Sophia"
+  orcid: "https://orcid.org/0000-0002-0159-2613"
+title: "LinRegConf"
+version: 0.1
+doi: 
+date-released: 2024-01-04
+url: "https://github.com/sflury/LinRegConf"
