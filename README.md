@@ -1,5 +1,8 @@
 # LinRegConf
-Perform linear least squares regression, accounting for uncertainty, using linear algebra methods.
+Perform linear least squares regression, accounting for uncertainty, using linear algebra methods to minimize the objective function
+(in this case, $$\chi^2$$).
+
+When using this code, please cite this repository using the reference provided here by GitHub.
 
 ## Example
 ``` python
@@ -26,3 +29,10 @@ a_0 x^0  :  1.023 +/- 0.109
 a_1 x^1  :  2.025 +/- 0.188
 ```
 ![image of a linear fit to data with 95% confidence intervals](LinRegConf.png "LinRegConf fit")
+
+## Licensing
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
