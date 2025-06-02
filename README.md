@@ -30,6 +30,20 @@ a_1 x^1  :  2.025 +/- 0.188
 ```
 ![image of a linear fit to data with 95% confidence intervals](LinRegConf.png "LinRegConf fit")
 
+## BibTeX Reference
+``` bibtex
+@SOFTWARE{Flury_LinRegConf,
+       author = {{Flury}, Sophia R.},
+        title = "{LinRegConf}",
+         year = 2024,
+        month = jan,
+      version = {1.0.0},
+          url = {https://github.com/sflury/LinRegConf},
+          doi = {10.5281/zenodo.15577097} }
+```
+
+[![DOI](https://zenodo.org/badge/738698393.svg)](https://doi.org/10.5281/zenodo.15577097)
+
 ## Licensing
 <a href="https://github.com/sflury/LinRegConf">LinRegConf</a> © 2023 by <a href="https://sflury.github.io">Sophia Flury</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>
 
